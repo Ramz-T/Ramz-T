@@ -4,7 +4,7 @@ Welcome to my GitHub profile! This is where I showcase my projects and share my 
 
 ## About Me
 
-My name is [Ramzey] and I'm a [Aspiring cyber security engineer]. I have a passion for [cybersecurity] and enjoy working on various projects in my spare time. 
+My name is Ramzey Thabet and I'm a Aspiring cyber security engineer. I have a passion for cyber security and enjoy working on various projects in my spare time. 
 
 
 - Programming languages: [python]
