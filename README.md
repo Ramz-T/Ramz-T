@@ -1,16 +1,26 @@
-### Hi there 👋
+# Ramz-T
 
-<!--
-**Ramz-T/Ramz-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! This is where I showcase my projects and share my coding journey. Feel free to explore and discover what I've been working on.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My name is [Ramzey] and I'm a [Aspiring cyber security engineer]. I have a passion for [cybersecurity] and enjoy working on various projects in my spare time. 
+
+
+## Skills
+
+- Programming languages: [List of languages]
+- Frameworks and libraries: [List of frameworks and libraries]
+- Tools and technologies: [List of tools and technologies]
+- Other skills: [Any additional relevant skills]
+
+## Contact Me
+
+If you would like to get in touch with me or collaborate on a project, you can reach me via:
+
+- Email: [ramzeythabet.95@hotmail.co.uk]
+- LinkedIn: [https://www.linkedin.com/in/ramzey-t/]
+
+
+Feel free to connect and say hello!
 -->
